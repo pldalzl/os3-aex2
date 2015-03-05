@@ -1,4 +1,4 @@
-/*
+/* VAR1
  * Author:    Peter Dickman
  * Version:   1.0
  * Last edit: 2003-02-18
